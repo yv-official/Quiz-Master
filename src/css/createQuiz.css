@@ -1,0 +1,137 @@
+.quiz-create{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.heading{
+    font-size: 48px;
+    padding-bottom: 50px;
+    font-weight: 600;
+    color: rgb(56, 165, 255);
+    line-height: 50px;
+    
+}
+
+.add-quiz{
+    float: left;
+    display: inline-block;
+    position: relative;
+    box-sizing: border-box;
+    width: 40%;
+    height: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.add-question{
+    float: right;
+    display: inline-block;
+    position: relative;
+    box-sizing: border-box;
+    width: 60%;
+    height: auto;
+}
+
+form.questions{
+    position: relative;
+    display:block;
+    text-align: left;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    
+}
+
+form.quiz{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.label{
+    font-size: 20px;
+    display: block;
+    text-align: left;
+    font-weight: 500;
+    padding-top: 20px;
+    font-family: sans-serif;
+}
+.title{
+    font-size: 24px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid rgb(138, 138, 138);
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+input:active,
+input:hover{
+    border-bottom: 2px solid rgb(56, 165, 255);
+}
+
+textarea{
+    width: 500px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+textarea:hover{
+    border: 2px solid  rgb(56, 165, 255);
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background: white;
+    border: 1px solid rgb(56, 165, 255);
+    font-size: 18px;
+    margin-top: 30px;
+    color: rgb(56, 165, 255);
+    outline: none;
+}
+
+button:hover{
+    background: rgb(56, 165, 255);
+    color: white;
+    border: 2px solid white;
+}
+
+.total{
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
+.total-ques-heading{
+    padding: 20px;
+    line-height: 30px;
+    font-size: 24px;
+    color: rgb(141, 141, 141);
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.total-ques{
+    padding: 80px;
+    line-height: 100px;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: rgb(56, 165, 255);
+}
+
