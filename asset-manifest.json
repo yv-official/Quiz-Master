@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Quiz-Master/static/css/main.7abf5bdf.chunk.css",
-    "main.js": "/Quiz-Master/static/js/main.828cd241.chunk.js",
-    "main.js.map": "/Quiz-Master/static/js/main.828cd241.chunk.js.map",
+    "main.js": "/Quiz-Master/static/js/main.677731b5.chunk.js",
+    "main.js.map": "/Quiz-Master/static/js/main.677731b5.chunk.js.map",
     "runtime~main.js": "/Quiz-Master/static/js/runtime~main.36fcaba3.js",
     "runtime~main.js.map": "/Quiz-Master/static/js/runtime~main.36fcaba3.js.map",
     "static/js/2.a40cf2a4.chunk.js": "/Quiz-Master/static/js/2.a40cf2a4.chunk.js",
     "static/js/2.a40cf2a4.chunk.js.map": "/Quiz-Master/static/js/2.a40cf2a4.chunk.js.map",
     "index.html": "/Quiz-Master/index.html",
-    "precache-manifest.5d037876cda99ccb3ae5d77678980670.js": "/Quiz-Master/precache-manifest.5d037876cda99ccb3ae5d77678980670.js",
+    "precache-manifest.c6a92461874f38944ec091acb287f384.js": "/Quiz-Master/precache-manifest.c6a92461874f38944ec091acb287f384.js",
     "service-worker.js": "/Quiz-Master/service-worker.js",
     "static/css/main.7abf5bdf.chunk.css.map": "/Quiz-Master/static/css/main.7abf5bdf.chunk.css.map"
   }
