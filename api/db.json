@@ -1,0 +1,100 @@
+{
+  "quizes": [
+    {
+      "title": "Movies and Series",
+      "quiz": [
+        {
+          "question": "who killed Dragon Queen?",
+          "option1": "Arya Stark",
+          "option2": "John Snow",
+          "option3": "Jaime Lannister",
+          "option4": "Tyrion",
+          "correctOption": "2"
+        },
+        {
+          "option1": "Bilbo Baggins",
+          "option2": "Thorin ",
+          "option4": "Aragorn",
+          "correctOption": "1",
+          "question": "Who was the hero in The Lord of the Rings?",
+          "option3": "Samwise Gamchee"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "erfsdg",
+      "quiz": [
+        {
+          "question": "lkdfj",
+          "option1": "alkfj",
+          "option2": "alksfj",
+          "option3": "lkdjf",
+          "option4": "lkdjf",
+          "correctOption": "kljdf"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Rigu baba",
+      "quiz": [
+        {
+          "question": "aserewaraewf",
+          "option1": "cvds",
+          "option2": "xgdszg",
+          "option3": "zdfgsgzdfgdzg",
+          "option4": "xhdfx",
+          "correctOption": "zdrgdrg"
+        },
+        {
+          "question": "xdfgdrxgdrg",
+          "option1": "zxvzdsvd",
+          "option2": "dxvdsv",
+          "option3": "xvxdv",
+          "option4": "zdxvdsv",
+          "correctOption": "x"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "Random Quiz",
+      "quiz": [
+        {
+          "question": "Who is this?\n",
+          "option1": "this",
+          "option2": "that",
+          "option3": "where ",
+          "option4": "when",
+          "correctOption": "1"
+        },
+        {
+          "question": "nothing?",
+          "option1": "first",
+          "option2": "second",
+          "option3": "third ",
+          "option4": "fourth",
+          "correctOption": "2"
+        },
+        {
+          "question": "Is this a room?",
+          "option1": "Yesq",
+          "option2": "No",
+          "option3": "all of the above",
+          "option4": "none of the above",
+          "correctOption": "3"
+        },
+        {
+          "question": "Live like a rockstarrt",
+          "option1": "post malone",
+          "option2": "21 savage ",
+          "option3": "brothers",
+          "option4": "employment",
+          "correctOption": "4"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
